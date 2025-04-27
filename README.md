@@ -103,3 +103,9 @@ data-warehouse-project/
 ├── README.md                           # Project overview and instructions
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+---
+
+## Thanks to our Mentor
+
+This project was created with the help of tutorials from [@DataWithBaraa](https://www.youtube.com/@DataWithBaraa).
+All credit goes to them for the guidance and inspiration!
