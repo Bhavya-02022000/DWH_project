@@ -40,12 +40,12 @@ This project involves:
 
 Everything is for Free!
 
-- **[Datasets]()**: Access to the project dataset (csv files).
-- **[SQL Server Express]()**: Lightweight server for hosting your SQL database.
-- **[SQL Server Management Studio (SSMS)]()**: GUI for managing and interacting with databases.
-- **[Git Repository]()**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- **[DrawIO]()**: Design data architecture, models, flows, and diagrams.
-- **[Notion]()**: Get the Project Template from Notion
+- **[Datasets](datasets)**: Access to the project dataset (csv files).
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**: Lightweight server for hosting your SQL database.
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)**: GUI for managing and interacting with databases.
+- **[Git Repository](https://github.com/)**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **[DrawIO](https://www.drawio.com/)**: Design data architecture, models, flows, and diagrams.
+- **[Notion](https://www.notion.so/Data-Warehouse-Project-1c664cfef9cb8032864fe3d7a801b211?pvs=4)**: Get the Project Template from Notion
 - **[Notion Project Steps]()**: Access to All Project Phases and Tasks.
 
 ---
